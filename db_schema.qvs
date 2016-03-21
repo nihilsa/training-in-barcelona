@@ -1,0 +1,4 @@
+// Set schema and tables used for defining relevant query searches and get the queries
+Set vL.JobTableSchema	= 'NICOLAI';
+Set vL.JobTableName	= 'JOBS';
+Set vL.JobUser		= 'dwhuser';
